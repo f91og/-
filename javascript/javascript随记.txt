@@ -1,0 +1,17 @@
+<script type="text/javascript">
+        window.onload = function () {
+            lis=document.getElementsByTagName('li');
+            for(i=0;i<lis.length;i++){
+                lis[i].onmouseover=function(){
+                    this.className='lihover';//这里将this换成lis[i]便不能运行出效果，原因不知
+					//var h=this.getElementsByTagName("div")[0].style.top;
+                }
+                lis[i].onmouseout=function(){
+                    this.className="";
+                }
+            }
+        }
+</script>
+
+
+<img src="http://img.mukewang.com/541120c80001aae401970164.jpg" class = "rightPic"></img>

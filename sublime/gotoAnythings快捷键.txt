@@ -1,0 +1,13 @@
+ctrl + shift + p  快速更改文件类型
+
+
+
+ctrl + p 快速查找并打开文件  如：wista/index.html
+
+
+
+ctrl + p 快速定位并边界 如：@body  可以快速定位到当前文件的body标签
+
+
+
+也可以把上面两个操作合二为一 如wista/index.css@body  可以快速打开index.css文件并找到body标签

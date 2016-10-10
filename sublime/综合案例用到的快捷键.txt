@@ -1,0 +1,12 @@
+1.ctrl+N:打开编辑区
+2.切换语法：ctrl+shift+P:命令模式：sshtml
+3.觉得输入的麻烦 可以按atl+.> 匹配出结束标签
+4.一个更快捷的方法 “emmet插件” 输入“！”号 Ctrl+E
+5.到包的内部 ctrl+p#body 匹配到body 这个标签
+6.ctrl+enter 在当前下方添加一行
+ctrl+shirt+enter 在当前上方添加一行
+7.（ul>.item$*10）+（ctrl+E）“ >”号生成子元素 .（class）item（已item开头的class名）$(序号)
+8.鼠标拖拽选择ul内的元素 Ctrl+] 增加缩进 [ 减小缩进。
+9.alt+f3 全选 移动方向键就有了光标
+10.ctrl+e 产生标签
+11.ctrl+shift+v 粘贴时保持了缩进

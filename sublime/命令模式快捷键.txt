@@ -1,0 +1,2 @@
+用 Package Control 安装插件的方法：按下 Ctrl+Shift+P 调出命令面板，输入install， 调出 Install Package 选项并回车，然后在列表中选中要安装的插件
+Ctrl+Shift+K 的快捷键是：删除整行
